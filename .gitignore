@@ -1,2 +1,3 @@
 50007-2022
-*.csv
+test_tfidf_features.csv
+train_tfidf_features.csv
